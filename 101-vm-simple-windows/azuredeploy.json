@@ -76,7 +76,7 @@
     "autoUpgradeMinorVersion": true,
     "settings": {
       "fileUris": [
-        "https://github.com/Matt45D/azure-quickstart-templates/blob/master/custom-script-extension/firefox-installation-script.ps1"
+        "https://raw.githubusercontent.com/Matt45D/azure-quickstart-templates/master/custom-script-extension/firefox-installation-script.ps1"
       ]
     },
     "protectedSettings": {
